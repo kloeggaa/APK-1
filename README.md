@@ -16,10 +16,10 @@ BertaPan is an Android application that provides a simple and intuitive interfac
 
 ## Features
 
-- Clean and intuitive user interface
-- Easy task management
-- Modern Material Design
-- Lightweight and efficient
+- Simple demo application
+- Basic "Hello World" functionality
+- Material Design theme
+- Minimal proof of concept
 
 ## Installation
 
