@@ -6,24 +6,26 @@
 
 ## About
 
-BertaPan is an Android application that provides a simple and intuitive interface for managing your daily tasks. The app features a clean design with a focus on usability and efficiency.
-
-## Screenshots
-
-<div align="center">
-  <img src="screenshots/app_screenshot.png" alt="App Screenshot" width="300"/>
-</div>
+BertaPan is a simple Android application that serves as a basic template for Android development. It demonstrates the fundamental setup of an Android project with a clean and modern user interface.
 
 ## Features
 
-- Simple demo application
-- Basic "Hello World" functionality
-- Material Design theme
-- Minimal proof of concept
+- Basic Android application structure
+- Clean Material Design implementation
+- Custom app icon and branding
+- Minimal and lightweight
+
+## Project Structure
+
+The project follows standard Android development practices:
+- Java-based Android application
+- Gradle build system
+- Material Design components integration
+- Resource management (drawables, layouts, etc.)
 
 ## Installation
 
-You can install the app by downloading the latest APK from the releases section or build it from source:
+To run this project:
 
 1. Clone the repository
 ```bash
@@ -32,14 +34,15 @@ git clone https://github.com/kloeggaa/APK-1.git
 
 2. Open the project in Android Studio
 
-3. Build and run the app
+3. Build and run the app on an emulator or physical device
 
 ## Development
 
-The app is built using:
+This project is built with:
 - Java
 - Android SDK
 - Material Design Components
+- Gradle build system
 
 ## License
 
