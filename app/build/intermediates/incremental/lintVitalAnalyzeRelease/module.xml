@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/klo/programming/IDE/cursor/APK-1/app"
+    name=":app"
+    type="APP"
+    maven="Bertapan:app:"
+    agpVersion="8.0.0"
+    buildFolder="build"
+    bootClassPath="/usr/lib/android-sdk/platforms/android-33/android.jar:/usr/lib/android-sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
