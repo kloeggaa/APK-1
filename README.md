@@ -116,5 +116,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - Developer: kloeggaa
-- Email: dkloeckner@pm.me
+- Email: no.denial000@passmail.net
 - GitHub: [kloeggaa](https://github.com/kloeggaa) 
