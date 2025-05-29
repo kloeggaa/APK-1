@@ -14,4 +14,7 @@ __pycache__/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Large files
+commandlinetools-linux-9477386_latest.zip 
